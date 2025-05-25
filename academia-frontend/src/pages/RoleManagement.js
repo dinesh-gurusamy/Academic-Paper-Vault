@@ -80,7 +80,7 @@ const RoleManagement = () => {
                   value={user.role}
                   onChange={e => updateRole(user._id, e.target.value)}
                 >
-                  <option value="student">Student</option>
+                  <option value="user">Student</option>
                   <option value="faculty">Faculty</option>
                   <option value="admin">Admin</option>
                 </select>
