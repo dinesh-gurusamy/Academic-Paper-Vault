@@ -80,7 +80,7 @@ const Register = () => {
               />
             </div>
 
-            <div className="mb-3">
+            {/* <div className="mb-3">
               <label htmlFor="role" className="form-label">
                 <i className="fas fa-id-badge me-2"></i>Role
               </label>
@@ -93,7 +93,7 @@ const Register = () => {
               >
                 <option value="user">User</option>
               </select>
-            </div>
+            </div> */}
 
             <button type="submit" className="btn w-100" style={{ borderRadius: '10px', backgroundColor: '#400158', color: '#fff' }}>
               <i className="fas fa-user-plus me-2"></i>Register

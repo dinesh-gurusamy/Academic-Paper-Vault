@@ -64,7 +64,7 @@ const RoleManagement = () => {
       <table className="table table-striped table-bordered">
         <thead className="thead-dark">
           <tr>
-            <th>Username</th>
+            <th>User Id</th>
             <th>Role</th>
             <th>Actions</th>
           </tr>
